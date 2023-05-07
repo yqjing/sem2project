@@ -151,7 +151,7 @@ venv.bak/
 /site
 
 # delete parameters
-Diffusion_model/Parameters/
+Diffusion_models/Parameters/
 
 
 # mypy
