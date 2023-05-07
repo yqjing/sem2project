@@ -14,6 +14,7 @@ Yuqi Jing, Department of Mathematics, The University of Manchester.
 
 ## For code in Normalising_flows, we refer to 
 1. rtqichen/residual-flows, "https://github.com/rtqichen/residual-flows";
+2. Pretrained models, "https://github.com/rtqichen/residual-flows/releases/tag/v1.0.0";
 
 ## For code in FID_calculation, we refer to 
 1. Newbeeer/stf, "https://github.com/Newbeeer/stf";
