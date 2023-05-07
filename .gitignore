@@ -1,3 +1,4 @@
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -150,7 +151,7 @@ venv.bak/
 /site
 
 # delete parameters
-/Parameters/
+Diffusion_model/Parameters/
 
 
 # mypy
